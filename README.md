@@ -1,5 +1,5 @@
 # IMDB Movie Search w/Angular
-### the monolithic way
+### the "monolithic" way
 
  __- run dis__
 
