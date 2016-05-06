@@ -1,0 +1,13 @@
+{
+  "name": "IMDB_two",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node_modules/.bin/superstatic"
+  },
+  "author": "Mickey J",
+  "license": "ISC",
+  "devDependencies": {
+    "superstatic": "^4.0.2"
+  }
+}
